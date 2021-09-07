@@ -1,6 +1,7 @@
 # Dasmoto's Arts & Crafts
 
->Website page for Dasmoto's Arts & Crafts Store. 
+>Website page for Dasmoto's Arts & Crafts Store.  
+>Visit the live site [_here_](https://nanipeters.github.io/dasmoto-s-arts---crafts/).
 ## Table of contents
 [General info](#General-info)
 
