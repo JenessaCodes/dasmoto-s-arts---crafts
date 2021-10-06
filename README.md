@@ -1,7 +1,7 @@
 # Dasmoto's Arts & Crafts
 
 >Website page for Dasmoto's Arts & Crafts Store.  
->Visit the live site [_here_](https://nanipeters.github.io/dasmoto-s-arts---crafts/).
+>Visit the live site [_here_](https://jenessacodes.github.io/dasmoto-s-arts---crafts/).
 ## Table of contents
 [General info](#General-info)
 
@@ -28,4 +28,4 @@ To run this project, install it locally and open index.html in browser of choice
 Project is: finished.
 ### Contact
 
-Created by [@NaniPeters](https://www.github.com/NaniPeters) - feel free to contact me!
+Created by [@JenessaCodes](https://www.github.com/JenessaCodes) - feel free to contact me!
